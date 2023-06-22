@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Vince van Apeldoorn</h1>
 <h3 align="center">Student at Techniek College Rotterdam</h3>
 
